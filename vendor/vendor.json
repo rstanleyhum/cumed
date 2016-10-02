@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "sSGHy7AlmTEEbHXfiyMPpgqpoII=",
+			"path": "github.com/tealeg/xlsx",
+			"revision": "2b59b97479d67bfd7c2b5c10397de54ae049c107",
+			"revisionTime": "2016-04-01T07:45:38Z"
+		},
+		{
+			"checksumSHA1": "YzHkxW3fGe5Oc5AVatDNn1g5Ung=",
+			"path": "gopkg.in/check.v1",
+			"revision": "4f90aeace3a26ad7021961c297b22c42160c7b25",
+			"revisionTime": "2016-01-05T16:49:36Z"
+		}
+	],
+	"rootPath": "github.com/humrs/readxlsx"
+}
